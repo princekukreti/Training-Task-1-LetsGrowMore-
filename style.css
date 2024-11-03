@@ -1,0 +1,73 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    background-color: azure;
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    background-color: antiquewhite;
+}
+
+table {
+    width: 80%;
+    margin: 40px auto;
+    background: rgb(135, 212, 221);
+}
+
+table.output {
+    text-align: center;
+    width: 100%;
+}
+
+.aa {
+    font-size: 20px;
+    font-style: inherit;
+}
+
+td {
+    border: 1px solid whitesmoke;
+    text-align: left;
+    padding: 8px 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="img"] {
+    padding: 12px 20px;
+    width: 91%;
+    display: inline-flex;
+    margin: 8px 0;
+    border: 2px solid rgb(170, 165, 165);
+    border-radius: 10px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    padding: 15px 20px;
+    display: flexbox;
+    margin: 22px 40px 15px;
+    border-radius: 300px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+input[type="submit"] {
+    background-color: rgb(28 202 49);
+}
+
+input[type="reset"] {
+    background-color: rgb(244, 47, 26);
+}
+
+th {
+    font-size: 20px;
+}
