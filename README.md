@@ -1,1 +1,1 @@
-Please complete the enrollment form by providing your Name, LeetCode Profile URL, Phone Number, and Email Address. This information will help us connect with you and track your progress effectively. Thank you for enrolling
+Please complete the enrollment form by providing your Name, LeetCode Profile URL, Phone Number, and Email Address. This information will help us connect with you and track your progress effectively. Thank you for enrolling.
